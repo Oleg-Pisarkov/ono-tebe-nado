@@ -79,6 +79,7 @@
   font-size: 18px;
   line-height: 24px;
   color: #000000; 
+   
 }
 
 .address__item {
@@ -134,14 +135,17 @@
   text-align: left;
 }
 
+
 .letter-spacing-extended { 
   letter-spacing: 0.6em;
 }
+
 
 .aligned-text__center { 
   line-height: 1;
   text-align: center;
 }
+
 
 .aligned-text__right {  
   line-height: 1;
@@ -159,6 +163,7 @@
   gap: 79px;
   position: relative;
   z-index: 1;  
+
 }
 
 .cover__description-text {
@@ -229,6 +234,7 @@
 }
 
 .lots__card-list-item {
+  
   height: 100%;
   width: 100%;
 }
