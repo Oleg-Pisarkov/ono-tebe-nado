@@ -148,8 +148,10 @@
 
 
 .aligned-text__right { 
+
   line-height: 1;
   text-align: end;  
+
 }
 
 .no-letter-spacing {
@@ -210,6 +212,7 @@
 }
 
 .lots__heading { 
+
   width: 121px;
   height: 47px;
   padding: 0px 891px 27px 40px;
@@ -240,6 +243,7 @@
   width: 100%;
   height: 100%;
   text-decoration: none; 
+
 }
 
 .card__title {
@@ -276,6 +280,7 @@
   flex-direction: column;
   justify-content: space-between;
   width: 334px;
+
   height: 563px; 
   padding: 50px 40px 48px;
 }
