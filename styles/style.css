@@ -135,11 +135,13 @@
 }
 
 .letter-spacing-extended { 
+
   letter-spacing: 0.6em;
 }
 
 
 .aligned-text__center { 
+
   line-height: 1;
   text-align: center;
 }
@@ -148,7 +150,6 @@
 .aligned-text__right { 
   line-height: 1;
   text-align: end;  
-
 }
 
 .no-letter-spacing {
@@ -239,7 +240,6 @@
   text-decoration: none;
   height: 100%;
   width: 100%; 
-  
 }
 
 .card__title {
@@ -269,6 +269,7 @@
 
 
 .card {
+  
   position: relative;
   z-index: 1;
   display: flex;
