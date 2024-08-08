@@ -67,12 +67,6 @@
   
 }
 
-.header__link {
-
-  
-  
-
-}
 
 .header__logo {
   display: block;
@@ -246,7 +240,7 @@
   border: 1px solid #FFFFFF;
   padding: 12px 32px;
   
-  font-family: 'Raleway'sans-serif;
+  font-family: 'Raleway',sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 22px;
@@ -326,7 +320,7 @@
   color: #FFFFFF;
   position: relative;
   z-index: 1;
-  text-underline-position: under;
+  text-underline-offset: 3px;
 
 
 
@@ -410,16 +404,10 @@
 .about {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 25;
+  gap: 25px;
   width: 1052px;
   height: 595px;
   margin: 146px 24px 180px;
-  
-
-
-
-  
-  
 }
 
 .about__column {
@@ -543,13 +531,6 @@
 
 }
 
-.footer__menu-list-item {
-
-}
-
-.footer__menu-link {
-
-}
 
 .footer__menu-link_active {
   text-decoration: none;
@@ -571,19 +552,3 @@
 
 
 }
-
-.footer__social-list-item {
-
-}
-
-.footer__social-link {
-
-}
-
-.footer__social-icon {
-
-}
-
-
-
-
