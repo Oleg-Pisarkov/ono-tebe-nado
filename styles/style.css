@@ -147,12 +147,11 @@
 }
 
 
-.aligned-text__right { 
-
+.aligned-text__right {
   line-height: 1;
-  text-align: end;  
-
+  text-align: end; 
 }
+   
 
 .no-letter-spacing {
   letter-spacing: normal;
