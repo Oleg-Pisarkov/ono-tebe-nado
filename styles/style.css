@@ -61,7 +61,6 @@
 .address__header {
   justify-self: end;
   width: 240px;
-  min-height: 98px;
   color: #000000;
   font-family: 'Raleway' ,sans-serif;
   font-weight: 400;
@@ -344,7 +343,7 @@
   display: flex;
   justify-content: space-between;
   padding: 0px 50px 88px 50px;
-  margin: 170px 0px 88px 0px;
+  margin-top: 170px;
 }
 
 .address__footer {
